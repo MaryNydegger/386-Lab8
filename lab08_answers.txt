@@ -1,0 +1,26 @@
+REPLACE EACH XXX WITH YOUR ANSWER.
+LEAVE EVERYTHING ELSE THE SAME.
+
+Question 1:
+- The only requirement is to add your cleaned "employee_clean.csv" file to your repo
+
+Question 2:
+- Add your "clean_weather.csv" file to your repo
+- Questions:
+a. XXX
+b. XXX
+c. XXX
+d. XXX
+e. XXX
+f. XXX
+
+Question 3:
+- Add your "TB2022_clean.csv" file to your repo 
+- Questions:
+a. XXX
+b. XXX
+c. XXX
+d. XXX
+
+Question 4:
+- The only requirement is to add your cleaned "uscities.csv" file to your repo
