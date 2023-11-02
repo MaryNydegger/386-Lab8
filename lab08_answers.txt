@@ -7,20 +7,20 @@ Question 1:
 Question 2:
 - Add your "clean_weather.csv" file to your repo
 - Questions:
-a. XXX
-b. XXX
-c. XXX
-d. XXX
-e. XXX
-f. XXX
+a. 214
+b. 31.0
+c. 58.0
+d. 2011-01-15
+e. 80.0
+f. May
 
 Question 3:
 - Add your "TB2022_clean.csv" file to your repo 
 - Questions:
-a. XXX
-b. XXX
-c. XXX
-d. XXX
+a. 443
+b. 440
+c. f2534
+d. m4554
 
 Question 4:
 - The only requirement is to add your cleaned "uscities.csv" file to your repo
